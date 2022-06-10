@@ -8,10 +8,10 @@ Focused on react-redux-integration. It is a sample-application that demonstrates
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 In the project directory:
 
-### `npx create-react-app template-react-router-dom`
+### `npx create-react-app react-redux-integration-sample-app`
 
 ## Source Code:
-### Please refer: [https://github.com/Prashika/react-router-dom-template-app.git](https://github.com/Prashika/react-router-dom-template-app.git)
+### Please refer: [https://github.com/Prashika/react-redux-integration-sample-app.git](https://github.com/Prashika/react-redux-integration-sample-app.git)
 
 ## Available Scripts
 
