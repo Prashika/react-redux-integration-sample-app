@@ -8,8 +8,6 @@ import '../styles/App.css';
 import Header from './header/header';
 import Home from './home';
 import AppliedRedux from './applied-redux';
-import { Provider } from 'react-redux';
-import configureStore from '../state/store.js';
 
 function Navigation() {
 
