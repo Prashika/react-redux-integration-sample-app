@@ -26,5 +26,5 @@ The page will reload when you make changes in source code.\
 You may also see any lint errors in the console.
 
 ## References:
-[https://www.pluralsight.com/guides/how-to-integrate-redux-inside-a-react-app#module-areallifeexample](https://www.pluralsight.com/guides/how-to-integrate-redux-inside-a-react-app#module-areallifeexample)\
-[https://dmitripavlutin.com/react-context-and-usecontext/](https://dmitripavlutin.com/react-context-and-usecontext/)
+[https://www.pluralsight.com/guides/how-to-integrate-redux-inside-a-react-app#module-areallifeexample](https://www.pluralsight.com/guides/how-to-integrate-redux-inside-a-react-app#module-areallifeexample)
+
