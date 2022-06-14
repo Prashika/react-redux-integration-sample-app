@@ -25,3 +25,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes in source code.\
 You may also see any lint errors in the console.
 
+## References:
+[https://www.pluralsight.com/guides/how-to-integrate-redux-inside-a-react-app#module-areallifeexample](https://www.pluralsight.com/guides/how-to-integrate-redux-inside-a-react-app#module-areallifeexample)
